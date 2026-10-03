@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mahbuba Akter Eka 👋
 
-<!--
-**mahbubaaktereka/mahbubaaktereka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Undergraduate | Data Science & Machine Learning**
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering undergraduate interested in **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy learning how data can be transformed into meaningful insights and practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python for Data Science
+- Data Analysis & Visualization
+- Machine Learning
+- SQL & Databases
+- Deep Learning
+
+### 🛠️ Tools & Technologies
+**Languages:** Python, C++, Java  
+**Data & ML:** NumPy, Pandas, Matplotlib, Scikit-learn  
+**Databases:** MySQL  
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab
+
+### 📌 My Goal
+To build strong practical and research-oriented skills in **Data Science and Machine Learning** through projects, coursework, and continuous learning.
+
+### 📂 Projects
+I'm currently building my portfolio with projects in:
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📈 Predictive Modeling
+
+### 🤝 Connect With Me
+- 💼 LinkedIn: [Mahbuba Akter Eka](www.linkedin.com/in/mahbuba-eka-327ab1440)
+- 🐙 GitHub: [@mahbubaaktereka](https://github.com/mahbubaaktereka)
